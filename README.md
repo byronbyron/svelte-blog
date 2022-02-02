@@ -1,3 +1,7 @@
+<img width="1440" alt="Screenshot 2022-02-02 at 13 08 00" src="https://user-images.githubusercontent.com/805070/152159755-4e1ba8e6-d943-4a96-96cd-b7e145d85e84.png">
+
+<img width="1440" alt="Screenshot 2022-02-02 at 13 06 37" src="https://user-images.githubusercontent.com/805070/152159617-5750195e-064d-4fe4-b1b5-447739fb7987.png">
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
