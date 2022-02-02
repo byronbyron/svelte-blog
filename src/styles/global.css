@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;700&display=swap');
+
+body {
+  font-family: 'Source Serif 4', sans-serif;
+  font-size: 1.25rem;
+  background: #ede8bf;
+  margin: 0;
+}
+
+h1, h2, h3, h4, a, p, li {
+  color: #424333;
+}
