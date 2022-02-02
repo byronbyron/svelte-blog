@@ -38,13 +38,22 @@
     .links {
         margin-left: auto;
     }
-    a {
+    .links a {
         margin-left: 0.625rem;
+        line-height: 90px;
+        display: inline-block;
     }
     nav {
         display: flex;
         align-items: center;
         max-width: 960px;
         margin: 0 auto;
+    }
+    nav a {
+        text-decoration: none;
+    }
+    nav a:hover,
+    nav a:focus {
+        text-decoration: underline;
     }
 </style>
