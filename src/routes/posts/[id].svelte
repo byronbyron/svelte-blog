@@ -1,8 +1,9 @@
 <script context="module">
     export async function load({ fetch, params }) {
         const id = params.id;
-        const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
-        const post = await res.json();
+        // const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
+        const res = await fetch(`/posts/${id}.json`);
+        const { post } = await res.json();
 
         if (res.ok) {
             return {
